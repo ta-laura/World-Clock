@@ -56,6 +56,7 @@ function updateTime() {
       "A"
     )}</small></div>
     </div>
+     <a href="/">All cities</a>
     `;
   }
   
