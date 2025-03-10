@@ -54,6 +54,7 @@ select{
 }
 a{
     color: grey;
+    text-decoration: none;
 }
 footer{
     text-align: center;
@@ -65,5 +66,4 @@ button{
     background:white;
     border-radius: 5px;
     padding: 8px 16px;
-    border-color: grey;
 }
